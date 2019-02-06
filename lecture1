@@ -1,0 +1,15 @@
+Go to google
+search fo xampp . the site ; https://www.apachefriends.org/index.html
+go to download
+chose the first option
+the file will be downloaded to the folder in you computer that is called Downloads
+click on the file
+do next, next, ... finish
+go to C:\xampp 
+then inside the folder C:\xampp , go down to reach the file xampp-control.exe
+click on xampp-control.exe
+the server control panel will open
+next to appache click start, then wait..
+next to MySQl click start
+the server is running!
+
