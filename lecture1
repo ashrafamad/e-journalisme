@@ -12,4 +12,21 @@ the server control panel will open
 next to appache click start, then wait..
 next to MySQl click start
 the server is running!
+to see the server, go to localhost
+your website can be visited at localhost/drupal
+the website that you will create should be saved in C:\xampp\htdocs under the name drupal
+to download drupal go to Google and search for : drupal 7 download
+for example, you can go to https://www.drupal.org/project/drupal/releases/7.56
+then choose download ZIP
+the file that you downloaded can be found in Computer > Downloads
+please note that the file is compressed / madghoot
+copy the compressed file and put it in C:\xampp\htdocs
+right click on the file and choose Extract to drupal 7.56
+delete the original file / compressed file .ZIP
+go inside the folder drupal 7.56, you will find another folder called drupal 7.56
+rename the folder that is inside to your name. for example I call it ashraf
+copy the folder that is called ashraf and put it in C:\xampp\htdocs
+then go to your site at the address localhost/ashraf
+
+
 
